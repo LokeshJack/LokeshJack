@@ -14,7 +14,6 @@ I have recently completed specialized training in AWS and DevOps. I possess hand
 
 ## Connect with Me
 
-Mail: lokeshjack08@gmail.com
+<a href="https://www.linkedin.com/in/lokesh-k-sde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-k-sde" height="30" width="40" /></a>
 
-Linkedin: https://www.linkedin.com/in/lokesh-k-sde/
 
